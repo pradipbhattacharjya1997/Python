@@ -1,0 +1,4 @@
+1- lmmutable
+2- heterogeneous
+3- list []
+tuple ()
